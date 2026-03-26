@@ -1,0 +1,15 @@
+//A partir da Função abaixo,
+//crie as variações: 
+// (Adição, Sutração,,Multiplicação, Divisão)
+
+function divisao(n1, n2) {
+    if(n2 != 0) { 
+        console.log(n1 / n2)
+    } else {
+        console.error('imposssível dividir por ZERO!')
+
+    }
+
+
+    }
+
